@@ -1,0 +1,16 @@
+var name="Nagaratna";
+console.log(name);
+school="M K PATIL HIGH SCHOOL";
+console.log(school);
+grade="A";
+console.log(grade);
+section="A";
+console.log(section);
+rollno="23";
+console.log(rollno);
+subject1marks="75";
+console.log(subject1marks);
+subject2marks="70";
+console.log(subject2marks);
+subject3marks="80";
+console.log(subject3marks);
